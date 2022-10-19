@@ -73,7 +73,6 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-
         loadMyUrl("google.com");
 
         urlInput.setOnEditorActionListener(new TextView.OnEditorActionListener() {
